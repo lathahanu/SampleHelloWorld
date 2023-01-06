@@ -1,0 +1,6 @@
+public class demoforgit{
+
+public static void main{String args[]){
+System.out.println("Hey this is my demo example.");
+}
+}
